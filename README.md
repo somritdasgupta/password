@@ -1,6 +1,6 @@
 # Web-Based Password Generator
 
-This is a web-based password generator built using HTML, CSS, and JavaScript. It allows you to generate strong and secure passwords with varying levels of complexity. The application is hosted on [CodePen](https://codepen.io/somritdasgupta/full/MWqLyQd), and you can try it out by visiting the live demo.
+This is a web-based password generator built using HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -12,7 +12,7 @@ The password generator has the following features:
 
 ## Getting Started
 
-To get started with the password generator, simply visit the live demo at [https://codepen.io/somritdasgupta/full/MWqLyQd](https://codepen.io/somritdasgupta/full/MWqLyQd). 
+To get started with the password generator, simply visit the live demo at [GitHub Pages](https://somritdasgupta.github.io/password). 
 
 ## Contributing
 
@@ -20,7 +20,7 @@ If you want to contribute to the project, you can fork the repository and make c
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/username/repo/blob/master/LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/somritdasgupta/password/blob/main/LICENSE) file for details. 
 
 ## Acknowledgments
 
